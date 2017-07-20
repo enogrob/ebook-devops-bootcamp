@@ -16,7 +16,7 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 1: DEVOPS CONCEPTS AND ASSESSMENT FRAMEWORK
-[ ] Need for DevOps
+[x] Need for DevOps
 [ ] How can DevOps culture evolve?
 [ ] Importance of PPT - people, process, and technology
 [ ] Why DevOps is not all about tools
