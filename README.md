@@ -17,11 +17,11 @@ Learn everything you need to about the subject of this `eBook` project.
 ```
 1: DEVOPS CONCEPTS AND ASSESSMENT FRAMEWORK
 [x] Need for DevOps
-[ ] How can DevOps culture evolve?
-[ ] Importance of PPT - people, process, and technology
-[ ] Why DevOps is not all about tools
-[ ] DevOps assessment questions
-[ ] Summary
+[x] How can DevOps culture evolve?
+[x] Importance of PPT - people, process, and technology
+[x] Why DevOps is not all about tools
+[x] DevOps assessment questions
+[x] Summary
 2: CONTINUOUS INTEGRATION
 [ ] Installing Jenkins 2
 [ ] Creating and configuring Maven-based JEE web applications
