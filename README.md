@@ -1,3 +1,5 @@
+
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-devops-bootcamp/master?grs=github&t=moon)
 ```
 Roberto Nogueira  
 BSd EE, MSd CE
@@ -5,7 +7,7 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 # eBook Devops BootCamp
 
-![ebook image](images/ebook.png)
+![ebook image](assets/ebook.png)
 
 **About**
 
