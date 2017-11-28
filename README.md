@@ -25,18 +25,18 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] DevOps assessment questions
 [x] Summary
 2: CONTINUOUS INTEGRATION
-[ ] Installing Jenkins 2
-[ ] Creating and configuring Maven-based JEE web applications
-[ ] Integrating Jenkins and SonarQube
-[ ] E-mail notifications in Jenkins
-[ ] Continuous integration using Visual Studio Team Services
-[ ] Summary
+[x] Installing Jenkins 2
+[x] Creating and configuring Maven-based JEE web applications
+[x] Integrating Jenkins and SonarQube
+[x] E-mail notifications in Jenkins
+[x] Continuous integration using Visual Studio Team Services
+[x] Summary
 3: CONTAINERS
-[ ] Overview of Docker containers
-[ ] Understanding the difference between virtual machines and containers
-[ ] Installing and configuring Docker
-[ ] Creating a Tomcat container
-[ ] Summary
+[x] Overview of Docker containers
+[x] Understanding the difference between virtual machines and containers
+[x] Installing and configuring Docker
+[x] Creating a Tomcat container
+[x] Summary
 4: CLOUD COMPUTING AND CONFIGURATION MANAGEMENT
 [ ] An overview of the Chef configuration management tool
 [ ] Installing and configuring a Chef workstation

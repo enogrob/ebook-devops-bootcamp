@@ -7,10 +7,3 @@ NOTE: The sample user and role entries below are intended for use with the examp
 <role rolename="manager-script"/>
 <user username="admin" password="admin@123" roles="manager-script"/>
 </tomcat-users>
-
-
-
-
-FROM tomcat:8.0
-MAINTAINER Mitesh<xxxxxx.xxxxxx@gmail.com>
-COPY tomcat-users.xml /usr/local/tomcat/conf/tomcat-users.xml
